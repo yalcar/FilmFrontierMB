@@ -5,6 +5,7 @@
     Name: Yali Carvajal
     Date: August 8,2023
     Description: Web Development 2 Final Project Full Spec
+    moviepost.php
 
 ****************/
 
