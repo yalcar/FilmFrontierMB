@@ -21,9 +21,6 @@ Welcome to **FilmFrontierMB**—your one-stop platform for comprehensive insight
 ## Table of Contents
 1. [About Us](#about-us)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contribute](#contribute)
-5. [Contact](#contact)
 
 ---
 
