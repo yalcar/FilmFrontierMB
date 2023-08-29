@@ -50,28 +50,11 @@ git clone <https://github.com/yalcar/FilmFrontierMB.git>
 
 ---
 
-## Certainly, here's an easy-to-understand README.md file that presents information on the `serverside` database and its tables. This README is aimed at both technical and non-technical users, offering clear descriptions of each table and its purpose. 
+## Database
 
----
+This database is engineered to serve as the backend structure for FilmFrontierMB, a platform dedicated to movies and movie reviews. Below you'll find a description of each table and what kind of information it holds.
 
-# Serverside Database Documentation
-
-## Overview
-
-Welcome to the `serverside` database. This database is engineered to serve as the backend structure for FilmFrontierMB, a platform dedicated to movies and movie reviews. Below you'll find a description of each table and what kind of information it holds.
-
----
-
-## Table of Contents
-- [Database Setup](#database-setup)
-- [Tables](#tables)
-    - [Category Table](#category-table)
-    - [Movie Table](#movie-table)
-    - [Review Table](#review-table)
-
----
-
-## Database Setup
+### Database Setup
 
 **Database Character Set and Collation**
 - Character Set: `utf8mb4`
@@ -83,8 +66,6 @@ CREATE DATABASE IF NOT EXISTS `serverside` DEFAULT CHARACTER SET utf8mb4 COLLATE
 ```
 
 ---
-
-## Tables
 
 ### Category Table
 
