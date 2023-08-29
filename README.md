@@ -45,16 +45,10 @@ Born out of the global pandemic landscape of 2019, FilmFrontierMB has emerged as
 **Steps:**
 1. Clone the repository to your local machine.
 ```bash
-git clone <repository_url>
+git clone <https://github.com/yalcar/FilmFrontierMB.git>
 ```
 2. Start the XAMPP control panel and initialize Apache and MariaDB.
 3. Restore the server-side database using the `Database/serverside.sql` file.
-
----
-
-## Usage
-
-Refer to the [User Guide](#) for detailed steps on how to navigate through the platform.
 
 ---
 
